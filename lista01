@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="" group-title="CANAIS Abertos", Globo
+https://cdnfe1.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxOSA5OjA1OjQzIFBNJmhhc2hfdmFsdWU9aTB0N0lWb1lMRG9XbW51YklWUmpPQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon" tvg-logo="" group-title="CANAIS | Infantis", Cartoon
+https://cdnfe1.azureedge.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxOSA5OjA3OjA4IFBNJmhhc2hfdmFsdWU9UDI0eUpyUmEvd0o0ejhpKzZ1U205Zz09JnZhbGlkbWludXRlcz02MCZpZD01
